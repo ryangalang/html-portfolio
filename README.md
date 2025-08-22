@@ -1,5 +1,3 @@
-README.txt
-
 W3C Validator:
 
 No errors on index.html or contact.html.
