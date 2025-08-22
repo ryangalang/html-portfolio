@@ -2,7 +2,7 @@ README.txt
 
 W3C Validator:
 
-✔ No errors on index.html or contact.html.
+No errors on index.html or contact.html.
 
 Warnings:
 
